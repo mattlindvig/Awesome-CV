@@ -10,7 +10,7 @@
   LaTeX template for your outstanding job application
 </p>
 
-<div align="center">
+<div align="center"> 
   <a href="https://www.paypal.me/posquit0">
     <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
   </a>
